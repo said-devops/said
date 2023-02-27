@@ -108,7 +108,6 @@ Le projet étant un projet débutant, le versionning n'est pas considéré.
 
 ## Auteurs
 Listez le(s) auteur(s) du projet ici !
-* **Mikail ALBAYRAK** _alias_ [@regnat0r](https://github.com/mikailsupdevinci)
 [Raouf CHERFA](https://github.com/raoufcherfa/employe) pour voir qui à aidé au projet !)
 
 ## Fabriqué avec
